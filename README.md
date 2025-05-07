@@ -2,10 +2,6 @@
 
 An extension of [svg.js](https://github.com/svgdotjs/svg.js), which allows to draw elements with your mouse
 
-# Demo
-
-For a demo see http://svgdotjs.github.io/svg.draw.js/
-
 # Get Started
 
 Install the plugin:
